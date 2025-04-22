@@ -31,3 +31,21 @@ Todos os gráficos possuem **títulos e rótulos** nos eixos para garantir clare
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/natluz120/projeto_visualizacaoDados.git
+
+## ⚡ Como Rodar o Arquivo Dash
+
+Se você quiser visualizar os gráficos interativos criados com o **Dash**, siga os passos abaixo:
+
+1. **Instale as dependências necessárias** (caso ainda não tenha):
+   ```bash
+   pip install dash pandas
+
+2. **Execute o arquivo do Dash**
+   ```bash
+   python visualizacaoDados_Dash.py
+
+3. **Acesse o app no navegador**
+   Após rodar o comando, o Dash geralmente roda localmente em:
+👉 http://127.0.0.1:8050
+
+4. **Explore os gráficos interativos como se fosse uma cientista de dados ninja 🥷📊** 
